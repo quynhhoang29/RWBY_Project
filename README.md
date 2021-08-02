@@ -1,5 +1,5 @@
 # RWBY Project - General Description
-#The main purpose of this project is to apply the newly learned skills of HTML and CSS to create a website. This website provides information on the animated series called RWBY, and this website was created through a local server.
+#The main purpose of this project is to apply the newly learned skills of HTML and CSS to create a website. This website provides information on the animated series called RWBY, and this website is created through a local server.
 
 #Project Direction
 1) Website Layout - A general layout of the entire website is created first. This layout includes what type of information should be included on each page. The information can range from a summary of RWBY to descriptions of characters. It also contains the website's sample structure and artistic elements. This layout is named "RWBY Website Layout" on Github. 
